@@ -8,7 +8,6 @@ Computer science student passionate about software engineering and driven by a c
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [etsega19@gmail.com](mailto:etsega19@gmail.com)
-* 🧠  I'm learning Data Structures and Algorithms
 
 ### Skills
 
